@@ -1,0 +1,54 @@
+.CardItem {
+    width: 350px;
+    height: auto;
+    border: 1px solid black;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;;
+}
+
+Header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    font-size:x-large;
+}
+
+picture {
+    height: 200px;
+    width: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 325px;
+    height: auto;
+}
+
+section {
+    background: linear-gradient(to right, rgb(115, 226, 161) 0%, rgb(3, 175, 150) 100%);
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    margin: 0px;
+    padding: 5px;
+}
+
+footer {
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(33, 37, 41);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
